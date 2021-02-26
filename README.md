@@ -1,2 +1,2 @@
 # KotlinMVVMHilt
-# This repository is a sample implementation of MVVM usinh hilt
+# This repository is a sample implementation of MVVM using hilt
